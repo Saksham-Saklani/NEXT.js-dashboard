@@ -34,7 +34,7 @@ function debounce(fn: Function, delay: number){
     }
     
     replace(`${pathname}?${params.toString()}`)
-    }, 3000)
+    }, 2000)
 
 
 
